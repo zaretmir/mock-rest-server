@@ -1,0 +1,16 @@
+{
+  products: [
+    {
+        "id": 63,
+        "name": "Ephedrine",
+        "description": "qwerty",
+        "active": true
+    },
+    {
+        "id": 64,
+        "name": "Norephedrine",
+        "description": "asdf",
+        "active": true
+    }
+  ]
+}
