@@ -1,16 +1,32 @@
 {
-  "products": [
-    {
-        "id": 63,
-        "name": "Ephedrine",
-        "description": "qwerty",
-        "active": true
-    },
-    {
-        "id": 64,
-        "name": "Norephedrine",
-        "description": "asdf",
-        "active": true
-    }
-  ]
+"courses" = [
+  {
+    "id": 1,
+    "title": 'Course A',
+    "duration": 12,
+    "level": 'basic',
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "title": 'Course B',
+    "duration": 12,
+    "level": 'basic',
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "title": 'Course C',
+    "duration": 12,
+    "level": 'basic',
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "title": 'Course D',
+    "duration": 12,
+    "level": 'basic',
+    "isActive": true
+  }
+]
 }
