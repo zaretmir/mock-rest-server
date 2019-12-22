@@ -10,21 +10,21 @@
   {
     "id": 1,
     "title": "Course A1",
-    "duration": 12,
+    "duration": 45,
     "level": "basic",
     "isActive": true
   },
   {
     "id": 1,
     "title": "Course A2",
-    "duration": 12,
+    "duration": 124,
     "level": "basic",
     "isActive": true
   },
   {
     "id": 1,
     "title": "Course A3",
-    "duration": 12,
+    "duration": 142,
     "level": "basic",
     "isActive": true
   }
