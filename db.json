@@ -2,7 +2,7 @@
 "courses": [
   {
     "id": 1,
-    "title": "Course A",
+    "title": "Course BA",
     "duration": 12,
     "level": "basic",
     "isActive": true
