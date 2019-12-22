@@ -11,14 +11,14 @@
     "id": 1,
     "title": "Course A1",
     "duration": 45,
-    "level": "basic",
+    "level": "advanced",
     "isActive": true
   },
   {
     "id": 1,
     "title": "Course A2",
     "duration": 124,
-    "level": "basic",
+    "level": "intermediate",
     "isActive": true
   },
   {
